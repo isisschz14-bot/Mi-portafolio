@@ -1,8 +1,8 @@
 # Mi-portafolio
-Portafolio — notebooks y scripts de Isis Sánchez
+Portafolio — notebooks y scripts de Isis Abib
 Portafolio de Análisis de Datos y Economía
 
-¡Hola! Soy Isis Sánchez, economista especializada en análisis de datos, investigación aplicada y metodologías cuantitativas. Este portafolio reúne una selección de mis proyectos en Python, econometría, análisis exploratorio de datos y machine learning básico, desarrollados en Jupyter/Google Colab.
+¡Hola! Soy Isis Abib, economista especializada en análisis de datos, investigación aplicada y metodologías cuantitativas. Este portafolio reúne una selección de mis proyectos en Python, econometría, análisis exploratorio de datos y machine learning básico, desarrollados en Jupyter/Google Colab.
 
 Mi interés profesional está enfocado en:
 
