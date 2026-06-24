@@ -25,14 +25,14 @@ perfil = {
 | Período | Rol | Organización |
 |---------|-----|--------------|
 | 2024–2026 | Analista de Datos | INEGI |
-| 2022–2024 | Investigadora Independiente | UAZ – Maestría en Ciencias Sociales |
-| 2021–2022 | Consultora y Analista de Economía | Subsecretaría de Desarrollo Económico, Guadalupe, Zac. |
+| 2022–2024 | Investigadora Independiente | Maestría en Ciencias Sociales |
+| 2021–2022 | Consultora y Analista de Economía | Subsecretaría de Desarrollo Económico |
 
 ---
 
 ## 🛠️ Stack de herramientas
 
-**Lenguajes:** Python · R · SQL  
+**Lenguajes:** Python · R · 
 **Análisis estadístico:** SPSS · Excel (avanzado)  
 **Visualización:** Power BI · QGIS  
 **Fuentes de datos:** ENOE · ENIGH · ENDIREH · EIC · CENSOS  
