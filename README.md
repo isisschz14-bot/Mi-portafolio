@@ -14,7 +14,7 @@ Nada de cajas negras. Todo reproducible, documentado y abierto.
 
 ---
 
-## 🔬 Qué tipo de proyectos irán subiendo
+## 🔬 Tipo de proyectos 
 
 - 📋 **Explotación de tabulados oficiales** — limpieza, estructuración y análisis de las tablas publicadas por dependencias como INEGI o CONAPO
 - 🔌 **Consultas vía API** — extracción automatizada desde fuentes como el INEGI API o el catálogo del DENUE
