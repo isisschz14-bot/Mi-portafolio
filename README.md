@@ -49,7 +49,7 @@ Los proyectos de este repositorio se nutren exclusivamente de fuentes oficiales:
 
 ¿Trabajas con datos públicos, tienes una pregunta sobre alguna metodología o quieres colaborar?
 
-[![LinkedIn](https://www.linkedin.com/in/isis-abib-aguilar-s%C3%A1nchez-7710aa227/?skipRedirect=true)
+[![LinkedIn](www.linkedin.com/in/isis-abib-aguilar-sánchez-7710aa227)
 
 
 ---
